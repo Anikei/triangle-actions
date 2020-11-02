@@ -1,3 +1,5 @@
+.idea/
+triangle-actions.iml
 target/
 pom.xml.tag
 pom.xml.releaseBackup
